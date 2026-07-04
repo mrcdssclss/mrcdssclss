@@ -3,6 +3,7 @@
 ## 🚀 About Me
 I'm a 3rd-year CSE student at ITMO University.  
 Enthusiastic about backend Java development and building backend systems.
+Current trainee at Nexign
 
 ---
 
