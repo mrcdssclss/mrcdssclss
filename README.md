@@ -19,7 +19,7 @@ Current trainee at Nexign
 
 ---
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=mrcdssclss&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=mrcdssclss&show_icons=true))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcdssclss&layout=compact)
 
 ---
 
